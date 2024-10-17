@@ -1,13 +1,13 @@
-## Laboratorio 4_ Josué Guerra
+## Laboratorio 4_ Josué Guerra Objetos y Arreglos
 ## Captura de la página
 ![image](https://github.com/user-attachments/assets/6a745969-25dd-4a40-a9e6-0b1845f95c27)
-
+# --------------------------------------------------------------------------------------- #
 ## Enlace de la página web
 # https://www.imdb.com/title/tt0458290/?ref_=fn_tt_tt_2 
 
-
+# --------------------------------------------------------------------------------------- #
 ## Código Escrito
-# Primmera Imagen
+# Primera Imagen
 ![image](https://github.com/user-attachments/assets/3b70aad5-9aa0-4349-8d53-d97dd7e68431)
 
 # Segunda Imagen
