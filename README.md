@@ -1,6 +1,6 @@
 # Laboratorio 4 - Josué Guerra: Objetos y Arreglos
 
-## Menú
+## Menú de navegación
 - [Captura de la página](#captura-de-la-página)
 - [Enlace de la página web (IMDb: Star Wars)](#enlace-de-la-página-web)
 - [Código Escrito](#código-escrito)
